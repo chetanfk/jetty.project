@@ -1,3 +1,5 @@
+jetty-9.4.10-SNAPSHOT
+
 jetty-9.4.10.RC1 - 26 April 2018
  + 110 Jetty JAASLoginService should not use getContextClassLoader to load role
    class name under OSGi
